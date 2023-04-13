@@ -1,0 +1,75 @@
+XHRPOSThttps://bdvenlinea.banvenez.com/notificaciones/obtenerConsultaNotificacion
+[HTTP/1.1 200  0ms]
+
+	
+POST
+	https://bdvenlinea.banvenez.com/notificaciones/obtenerConsultaNotificacion
+Estado
+200
+VersiónHTTP/1.1
+Transferido0 B (tamaño 79 B)
+Política de referenciastrict-origin-when-cross-origin
+
+    	
+    Access-Control-Allow-Headers
+    	Content-Type, Authorization, revoke, refreshtoken, Rip,xsrf-token
+    Access-Control-Allow-Methods
+    	POST, GET, OPTIONS, DELETE
+    Access-Control-Allow-Origin
+    	https://bdvenlinea.banvenez.com
+    Access-Control-Max-Age
+    	3600
+    Cache-Control
+    	no-cache, no-store, max-age=0, must-revalidate
+    Content-Type
+    	application/json;charset=UTF-8
+    Date
+    	Wed, 05 Apr 2023 15:58:59 GMT
+    Expires
+    	0
+    Pragma
+    	no-cache
+    Strict-Transport-Security
+    	max-age=31536000 ; includeSubDomains
+    Transfer-Encoding
+    	chunked
+    X-Content-Type-Options
+    	nosniff
+    X-Frame-Options
+    	DENY
+    X-XSS-Protection
+    	1; mode=block
+    	
+    POST /notificaciones/obtenerConsultaNotificacion HTTP/1.1
+
+    Host: bdvenlinea.banvenez.com
+
+    User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0
+
+    Accept: application/json, text/plain, */*
+
+    Accept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+
+    Accept-Encoding: gzip, deflate, br
+
+    Content-Type: application/json
+
+    Content-Length: 35
+
+    Referer: https://bdvenlinea.banvenez.com/main/posicionconsolidada
+
+    Rip: ea702952586ff85c6fce313b448ec6978f60c8fce40e97d2ad35690d025ef4138645363ace708972cce0f96a336adaf26351f7e1fabbe837b02b487e027647d4
+
+    Origin: https://bdvenlinea.banvenez.com
+
+    Sec-Fetch-Dest: empty
+
+    Sec-Fetch-Mode: cors
+
+    Sec-Fetch-Site: same-origin
+
+    Authorization: Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJsYXN0TmFtZSI6ImNQL0JYUFJpNEVUOWhxaTF2RDZpRFE9PSIsImdlbmRlciI6InNxYjJNM3hxRVRBa1hQSUIxMThidnc9PSIsInVzZXJfbmFtZSI6IkpVQU5GRVJTT05-MTY4MDcxMDA5Mzk0MiIsImNyeXB0IjoidHJ1ZSIsImxvZ2luIjoiIiwicm9sIjoiIiwiY2xpZW50X2lkIjoiYmR2ZW5saW5lYSIsInNjb3BlIjpbInJlYWQiLCJ3cml0ZSIsInRydXN0IiwiMTY4MDcxMDI3MzE5MSJdLCJjb3JyZW8iOiIiLCJzb2NpYWxMZXZlbCI6IlBXdFQ1UlIxemdpTC9xUkIzcXI4Rnc9PSIsImlkIjoiUi94STlEOXo2WFI1MkFqUDV6UERMZz09IiwiZXhwIjoxNjgwNzEwNDUzLCJjYXJnbyI6IiIsImp0aSI6IlVWVDFnQnV5ZTJZWDFncXpCUXhvZUk0c2RMOCIsImlkVHlwZSI6InozYUNxYUJScmc4b3BNeEF1eVoxMGc9PSIsImlwIjoiKzE2R1VjK0ZPaXpUYXMvRWh2SGtCdz09IiwiYXV0aG9yaXRpZXMiOlsiUk9MRV9UUlVTVEVEX0NMSUVOVCIsIlJPTEVfQ0xJRU5UIl0sImxhc3RDb25uZWN0aW9uIjoiM0NVOC96bEtWY2ZOUzdYTmFhbnRJL0pIKzVSbVlra2w0ZDhXVjRvcnlvTT0iLCJmYWN0b3IzIjoiaEhSeWVlQzZHUXlvZ0dpdWdGckFvUT09IiwiZXN0YXR1c0FjdCI6IjNra240aW1HelN3ZDF4TDlkZGxncFE9PSIsImZlY2hhTmFjIjoiWHdHeGVWSktXdDZ3cDN4RHdxaHlJeW82VE5iSUVuUGg4ZisvbzNlUGFsRT0iLCJhdWQiOlsiR0VTVE9SUEFHT1MiLCJCRFZFTkxJTkVBIiwiUkVHSVNUUk9DTElFTlRFIl0sImNvcmQyIjoiIiwibnJvUGVyc29uYSI6Im9NNFZMYU5TbzJpNUJ6TnhTTGFBbEE9PSIsImNvcmQxIjoiIiwicGhvbmUiOiJ4L2NDYXRiWUVhZUVLTGh2K2grR2RBPT0iLCJuYW1lIjoiYnIvMXdSVW1kSWJsR0pwOFFJT1ZFQT09IiwidW5pY28iOiJUIn0.VzBKQU9XVmxOakZsT1RvMU9HRTVaVGN6WldZM05HRXpOekptTVRNMU5UUTFOREF6WmpZeFlqSXhOREV5Wmpjek5USTFNRGRsTUdNeU5ETTVObUV4WkRVNE4yUTROR015WVRFMk56Z3haREk1WmpNME1HSmlNek00TnpJME56ZzJNbUZpTUdZeFpUUmtPR1kyTm1Vek56TmtNbVl3TldObU56Z3lOemt5TWprMU1qTXdPR1prWVRJd05RPT0
+
+    Connection: keep-alive
+
+    Cookie: _ga_3X7BY3WFY3=GS1.1.1680709532.3.1.1680710348.60.0.0; _ga=GA1.1.1671812500.1676676580; _gid=GA1.2.59940794.1680709534; f5avraaaaaaaaaaaaaaaa_session_=KCOIILIDLBLODPEHDOLONBDLLNCDBLPLAONFGNGJNPAJLNJOMHAPBEBONAJNAFHNEIEDMMCHIHLFCCEJGBBAPFELEJNCJHNIIGDODJIBIIKDFDNDGAOHFPGDAPABFIAK
